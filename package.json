@@ -1,0 +1,19 @@
+{
+  "name": "clipboardhealth",
+  "version": "1.0.0",
+  "description": "Coding Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikolata/ClipboardHealth.git"
+  },
+  "author": "Sherif Ghonaim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shikolata/ClipboardHealth/issues"
+  },
+  "homepage": "https://github.com/shikolata/ClipboardHealth#readme"
+}
